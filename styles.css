@@ -1,0 +1,48 @@
+*{
+padding: 0;
+margin:0;
+}
+
+canvas{
+background:#eee;
+display;
+
+block;
+margin:0 auto;
+}
+
+body
+{
+	margin:0px;
+}
+
+table{
+	width:100%;
+	border-collapse:collapse;
+	font:14px Arial,sans-serif;
+}
+
+#data1{
+	padding:10px 20px;
+	color: white;
+	background-color:#56A8CBFF;
+}
+
+#row2{
+	height:170px;
+	
+}
+
+#data2{
+	width:20%;
+	padding:20px;
+	background-color: lightgrey;
+	vertical-align: top;
+}
+
+#data3{
+	padding:5px;
+	background-color:#56A8CBFF;
+	text-align:center;
+}
+}
